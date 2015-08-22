@@ -1,0 +1,21 @@
+{
+  "name": "ko-shell",
+  "version": "0.0.0",
+  "description": "initialization shell for knockout",
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsu-complete/js-ko-shell.git"
+  },
+  "keywords": [
+    "initialization",
+    "shell",
+    "knockout"
+  ],
+  "author": "tsukumo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsu-complete/js-ko-shell/issues"
+  },
+  "homepage": "https://github.com/tsu-complete/js-ko-shell#readme"
+}

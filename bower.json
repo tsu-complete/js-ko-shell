@@ -1,0 +1,28 @@
+{
+  "name": "ko-shell",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tsu-complete/js-ko-shell",
+  "authors": [
+    "tsukumo"
+  ],
+  "description": "initialization shell for knockout",
+  "main": "index.coffee",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "initialization",
+    "shell",
+    "knockout"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/*",
+    "!index.coffee"
+  ],
+  "dependencies": {
+    "knockout": "~3.3.0"
+  }
+}
