@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/tsu-complete/js-ko-shell/issues"
   },
-  "homepage": "https://github.com/tsu-complete/js-ko-shell#readme"
+  "homepage": "https://github.com/tsu-complete/js-ko-shell#readme",
+  "peerDependencies": {
+    "knockout": "^3.4.0"
+  }
 }
